@@ -103,7 +103,8 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: root@43.142.57.153:/home/git/blog.git
+  #repo: root@43.142.57.153:/home/git/blog.git
+  repo: https://github.com/Moyonx/Moyonx.github.io
   branch: master
 
 # Search
