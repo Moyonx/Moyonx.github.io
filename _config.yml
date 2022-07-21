@@ -140,3 +140,4 @@ admin:
   username: Moyon
   password_hash: $2a$10$bvQtw4cmg7sSVGpIOk3gAeai2gARCVba/Cic3JBWA8QlKeSoSYK0O
   secret: jing979278453
+  deployCommand: './myScript/deploy.sh'
